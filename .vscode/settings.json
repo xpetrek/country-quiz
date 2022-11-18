@@ -1,0 +1,35 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.formatOnSave": false,
+		"editor.codeActionsOnSave": [
+			"source.formatDocument",
+			"source.fixAll.eslint"
+		]
+	},
+	"[javascriptreact]": {
+		"editor.formatOnSave": false,
+		"editor.codeActionsOnSave": [
+			"source.formatDocument",
+			"source.fixAll.eslint"
+		]
+	},
+	"[typescript]": {
+		"editor.formatOnSave": false,
+		"editor.tabSize": 4,
+		"editor.codeActionsOnSave": [
+			"source.formatDocument",
+			"source.fixAll.eslint"
+		]
+	},
+	"[typescriptreact]": {
+		"editor.formatOnSave": false,
+		"editor.tabSize": 4,
+		"editor.codeActionsOnSave": [
+			"source.formatDocument",
+			"source.fixAll.eslint"
+		]
+	}
+	// ...
+}

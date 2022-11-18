@@ -1,0 +1,2306 @@
+[
+	{
+		"key": "AD",
+		"population": 77355,
+		"name": {
+			"en": "Andorra",
+			"sk": "Andora"
+		},
+		"capital": {
+			"en": "Andorra la Vella",
+			"sk": "Andorra la Vella"
+		}
+	},
+	{
+		"key": "AE",
+		"population": 9991089,
+		"name": {
+			"en": "United Arab Emirates",
+			"sk": "Spojené Arabské Emiráty"
+		},
+		"capital": {
+			"en": "Abu Dhabi",
+			"sk": "Abu Dabi"
+		}
+	},
+	{
+		"key": "AF",
+		"population": 39835428,
+		"name": {
+			"en": "Afghanistan",
+			"sk": "Afganistan"
+		},
+		"capital": {
+			"en": "Kabul",
+			"sk": "Kábul"
+		}
+	},
+	{
+		"key": "AL",
+		"population": 2872933,
+		"name": {
+			"en": "Albania",
+			"sk": "Albánsko"
+		},
+		"capital": {
+			"en": "Tirana",
+			"sk": "Tirana"
+		}
+	},
+	{
+		"key": "AM",
+		"population": 2968127,
+		"name": {
+			"en": "Armenia",
+			"sk": "Arménsko"
+		},
+		"capital": {
+			"en": "Yerevan",
+			"sk": "Jerevan"
+		}
+	},
+	{
+		"key": "AO",
+		"population": 33933610,
+		"name": {
+			"en": "Angola",
+			"sk": "Angola"
+		},
+		"capital": {
+			"en": "Luanda",
+			"sk": "Luanda"
+		}
+	},
+	{
+		"key": "AR",
+		"population": 45605826,
+		"name": {
+			"en": "Argentina",
+			"sk": "Argentína"
+		},
+		"capital": {
+			"en": "Buenos Aires",
+			"sk": "Buenos Aires"
+		}
+	},
+	{
+		"key": "AT",
+		"population": 9043070,
+		"name": {
+			"en": "Austria",
+			"sk": "Rakúsko"
+		},
+		"capital": {
+			"en": "Vienna",
+			"sk": "Viedeň"
+		}
+	},
+	{
+		"key": "AU",
+		"population": 25788215,
+		"name": {
+			"en": "Australia",
+			"sk": "Austrália"
+		},
+		"capital": {
+			"en": "Canberra",
+			"sk": "Canberra"
+		}
+	},
+	{
+		"key": "AZ",
+		"population": 10223342,
+		"name": {
+			"en": "Azerbaijan",
+			"sk": "Azerbajdžan"
+		},
+		"capital": {
+			"en": "Baku",
+			"sk": "Baku"
+		}
+	},
+	{
+		"key": "BB",
+		"population": 287711,
+		"name": {
+			"en": "Barbados",
+			"sk": "Barbados"
+		},
+		"capital": {
+			"en": "Bridgetown",
+			"sk": "Bridgetown"
+		}
+	},
+	{
+		"key": "BD",
+		"population": 166303498,
+		"name": {
+			"en": "Bangladesh",
+			"sk": "Bangladéš"
+		},
+		"capital": {
+			"en": "Dhaka",
+			"sk": "Dháka"
+		}
+	},
+	{
+		"key": "BE",
+		"population": 11632326,
+		"name": {
+			"en": "Belgium",
+			"sk": "Belgicko"
+		},
+		"capital": {
+			"en": "Brussels",
+			"sk": "Brusel"
+		}
+	},
+	{
+		"key": "BF",
+		"population": 21497096,
+		"name": {
+			"en": "Burkina Faso",
+			"sk": "Burkina Faso"
+		},
+		"capital": {
+			"en": "Ouagadougou",
+			"sk": "Ouagadougou"
+		}
+	},
+	{
+		"key": "BG",
+		"population": 6896663,
+		"name": {
+			"en": "Bulgaria",
+			"sk": "Bulharsko"
+		},
+		"capital": {
+			"en": "Sofia",
+			"sk": "Sofia"
+		}
+	},
+	{
+		"key": "BH",
+		"population": 1748296,
+		"name": {
+			"en": "Bahrain",
+			"sk": "Bahrajn"
+		},
+		"capital": {
+			"en": "Manama",
+			"sk": "Manama"
+		}
+	},
+	{
+		"key": "BI",
+		"population": 12255433,
+		"name": {
+			"en": "Burundi",
+			"sk": "Burundi"
+		},
+		"capital": {
+			"en": "Bujumbura",
+			"sk": "Bujumbura"
+		}
+	},
+	{
+		"key": "BJ",
+		"population": 12451040,
+		"name": {
+			"en": "Benin",
+			"sk": "Benin"
+		},
+		"capital": {
+			"en": "Porto-Novo",
+			"sk": "Porto-Novo"
+		}
+	},
+	{
+		"key": "BN",
+		"population": 441532,
+		"name": {
+			"en": "Brunei",
+			"sk": "Brunei"
+		},
+		"capital": {
+			"en": "Bandar Seri Begawan",
+			"sk": "Bandar Seri Begawan"
+		}
+	},
+	{
+		"key": "BO",
+		"population": 11832940,
+		"name": {
+			"en": "Bolivia",
+			"sk": "Bolívia"
+		},
+		"capital": {
+			"en": "Sucre",
+			"sk": "Sucre"
+		}
+	},
+	{
+		"key": "BR",
+		"population": 213993437,
+		"name": {
+			"en": "Brazil",
+			"sk": "Brazília"
+		},
+		"capital": {
+			"en": "Brasilia",
+			"sk": "Brazília"
+		}
+	},
+	{
+		"key": "BS",
+		"population": 396913,
+		"name": {
+			"en": "Bahamas",
+			"sk": "Bahamy"
+		},
+		"capital": {
+			"en": "Nassau",
+			"sk": "Nassau"
+		}
+	},
+	{
+		"key": "BT",
+		"population": 779898,
+		"name": {
+			"en": "Bhutan",
+			"sk": "Bhután"
+		},
+		"capital": {
+			"en": "Thimphu",
+			"sk": "Thimphu"
+		}
+	},
+	{
+		"key": "BW",
+		"population": 2397241,
+		"name": {
+			"en": "Botswana",
+			"sk": "Botswana"
+		},
+		"capital": {
+			"en": "Gaborone",
+			"sk": "Gaborone"
+		}
+	},
+	{
+		"key": "BY",
+		"population": 9442862,
+		"name": {
+			"en": "Belarus",
+			"sk": "Bielorusko"
+		},
+		"capital": {
+			"en": "Minsk",
+			"sk": "Minsk"
+		}
+	},
+	{
+		"key": "BZ",
+		"population": 404914,
+		"name": {
+			"en": "Belize",
+			"sk": "Belize"
+		},
+		"capital": {
+			"en": "Belmopan",
+			"sk": "Belmopan"
+		}
+	},
+	{
+		"key": "CA",
+		"population": 38067903,
+		"name": {
+			"en": "Canada",
+			"sk": "Kanada"
+		},
+		"capital": {
+			"en": "Ottawa",
+			"sk": "Ottawa"
+		}
+	},
+	{
+		"key": "CF",
+		"population": 4919981,
+		"name": {
+			"en": "Central African Republic",
+			"sk": "Centrálna Africká Republika"
+		},
+		"capital": {
+			"en": "Bangui",
+			"sk": "Bangui"
+		}
+	},
+	{
+		"key": "CH",
+		"population": 8715494,
+		"name": {
+			"en": "Switzerland",
+			"sk": "Švajčiarsko"
+		},
+		"capital": {
+			"en": "Berne",
+			"sk": "Bern"
+		}
+	},
+	{
+		"key": "CL",
+		"population": 19212361,
+		"name": {
+			"en": "Chile",
+			"sk": "Čile"
+		},
+		"capital": {
+			"en": "Santiago",
+			"sk": "Santiago"
+		}
+	},
+	{
+		"key": "CM",
+		"population": 27224265,
+		"name": {
+			"en": "Cameroon",
+			"sk": "Kamerún"
+		},
+		"capital": {
+			"en": "Yaounde",
+			"sk": "Yaounde"
+		}
+	},
+	{
+		"key": "CN",
+		"population": 1444216107,
+		"name": {
+			"en": "China",
+			"sk": "Čína"
+		},
+		"capital": {
+			"en": "Beijing",
+			"sk": "Peking"
+		}
+	},
+	{
+		"key": "CO",
+		"population": 51265844,
+		"name": {
+			"en": "Colombia",
+			"sk": "Kolumbia"
+		},
+		"capital": {
+			"en": "Bogota",
+			"sk": "Bogota"
+		}
+	},
+	{
+		"key": "CR",
+		"population": 5139052,
+		"name": {
+			"en": "Costa Rica",
+			"sk": "Costa Rica"
+		},
+		"capital": {
+			"en": "San Jose",
+			"sk": "San Jose"
+		}
+	},
+	{
+		"key": "CU",
+		"population": 11317505,
+		"name": {
+			"en": "Cuba",
+			"sk": "Kuba"
+		},
+		"capital": {
+			"en": "Havana",
+			"sk": "Havana"
+		}
+	},
+	{
+		"key": "CV",
+		"population": 561898,
+		"name": {
+			"en": "Cape Verde",
+			"sk": "Kapverdy"
+		},
+		"capital": {
+			"en": "Praia",
+			"sk": "Praia"
+		}
+	},
+	{
+		"key": "CY",
+		"population": 1215584,
+		"name": {
+			"en": "Cyprus",
+			"sk": "Cyprus"
+		},
+		"capital": {
+			"en": "Nicosia",
+			"sk": "Nikózia"
+		}
+	},
+	{
+		"key": "CZ",
+		"population": 10724555,
+		"name": {
+			"en": "Czech Republic",
+			"sk": "Česká republika"
+		},
+		"capital": {
+			"en": "Prague",
+			"sk": "Praha"
+		}
+	},
+	{
+		"key": "DE",
+		"population": 83900473,
+		"name": {
+			"en": "Germany",
+			"sk": "Nemecko"
+		},
+		"capital": {
+			"en": "Berlin",
+			"sk": "Berlín"
+		}
+	},
+	{
+		"key": "DJ",
+		"population": 1002187,
+		"name": {
+			"en": "Djibouti",
+			"sk": "Džibutsko"
+		},
+		"capital": {
+			"en": "Djibouti",
+			"sk": "Džibuti"
+		}
+	},
+	{
+		"key": "DK",
+		"population": 5813298,
+		"name": {
+			"en": "Denmark",
+			"sk": "Dánsko"
+		},
+		"capital": {
+			"en": "Copenhagen",
+			"sk": "Kodaň"
+		}
+	},
+	{
+		"key": "DM",
+		"population": 72167,
+		"name": {
+			"en": "Dominica",
+			"sk": "Dominika"
+		},
+		"capital": {
+			"en": "Roseau",
+			"sk": "Roseau"
+		}
+	},
+	{
+		"key": "DO",
+		"population": 10953703,
+		"name": {
+			"en": "Dominican Republic",
+			"sk": "Dominikánska republika"
+		},
+		"capital": {
+			"en": "Santo Domingo",
+			"sk": "Santo Domingo"
+		}
+	},
+	{
+		"key": "DZ",
+		"population": 44616624,
+		"name": {
+			"en": "Algeria",
+			"sk": "Alžírsko"
+		},
+		"capital": {
+			"en": "Algiers",
+			"sk": "El-Djazâïr"
+		}
+	},
+	{
+		"key": "EC",
+		"population": 17888475,
+		"name": {
+			"en": "Ecuador",
+			"sk": "Ekvádor"
+		},
+		"capital": {
+			"en": "Quito",
+			"sk": "Quito"
+		}
+	},
+	{
+		"key": "EE",
+		"population": 1325185,
+		"name": {
+			"en": "Estonia",
+			"sk": "Estónsko"
+		},
+		"capital": {
+			"en": "Tallinn",
+			"sk": "Tallinn"
+		}
+	},
+	{
+		"key": "EG",
+		"population": 104258327,
+		"name": {
+			"en": "Egypt",
+			"sk": "Egypt"
+		},
+		"capital": {
+			"en": "Cairo",
+			"sk": "Káhira"
+		}
+	},
+	{
+		"key": "ER",
+		"population": 3601467,
+		"name": {
+			"en": "Eritrea",
+			"sk": "Eritrea"
+		},
+		"capital": {
+			"en": "Asmara",
+			"sk": "Asmara"
+		}
+	},
+	{
+		"key": "ES",
+		"population": 46745216,
+		"name": {
+			"en": "Spain",
+			"sk": "Španielsko"
+		},
+		"capital": {
+			"en": "Madrid",
+			"sk": "Madrid"
+		}
+	},
+	{
+		"key": "ET",
+		"population": 117876227,
+		"name": {
+			"en": "Ethiopia",
+			"sk": "Etiópia"
+		},
+		"capital": {
+			"en": "Addis Ababa",
+			"sk": "Addis Abeba"
+		}
+	},
+	{
+		"key": "FI",
+		"population": 5548360,
+		"name": {
+			"en": "Finland",
+			"sk": "Fínsko"
+		},
+		"capital": {
+			"en": "Helsinki",
+			"sk": "Helsinki"
+		}
+	},
+	{
+		"key": "FJ",
+		"population": 902906,
+		"name": {
+			"en": "Fiji",
+			"sk": "Fiji"
+		},
+		"capital": {
+			"en": "Suva",
+			"sk": "Suva"
+		}
+	},
+	{
+		"key": "FM",
+		"population": 116254,
+		"name": {
+			"en": "Micronesia",
+			"sk": "Mikronézia"
+		},
+		"capital": {
+			"en": "Palikir",
+			"sk": "Palikir"
+		}
+	},
+	{
+		"key": "FR",
+		"population": 65426179,
+		"name": {
+			"en": "France",
+			"sk": "Francúzsko"
+		},
+		"capital": {
+			"en": "Paris",
+			"sk": "Paríž"
+		}
+	},
+	{
+		"key": "GA",
+		"population": 2278825,
+		"name": {
+			"en": "Gabon",
+			"sk": "Gabon"
+		},
+		"capital": {
+			"en": "Libreville",
+			"sk": "Libreville"
+		}
+	},
+	{
+		"key": "GB",
+		"population": 68207116,
+		"name": {
+			"en": "United Kingdom",
+			"sk": "Spojené kráľovstvo"
+		},
+		"capital": {
+			"en": "London",
+			"sk": "Londýn"
+		}
+	},
+	{
+		"key": "GB-ENG",
+		"population": 53012456,
+		"name": {
+			"en": "England",
+			"sk": "Anglicko"
+		},
+		"capital": {
+			"en": "London",
+			"sk": "Londýn"
+		}
+	},
+	{
+		"key": "GB-NIR",
+		"population": 1810863,
+		"name": {
+			"en": "Northern Ireland",
+			"sk": "Severné Írsko"
+		},
+		"capital": {
+			"en": "Belfast",
+			"sk": "Belfast"
+		}
+	},
+	{
+		"key": "GB-SCT",
+		"population": 5313600,
+		"name": {
+			"en": "Scotland",
+			"sk": "Škótsko"
+		},
+		"capital": {
+			"en": "Edinburgh",
+			"sk": "Edinburgh"
+		}
+	},
+	{
+		"key": "GB-WLS",
+		"population": 5313600,
+		"name": {
+			"en": "Wales",
+			"sk": "Wales"
+		},
+		"capital": {
+			"en": "Cardiff",
+			"sk": "Cardiff"
+		}
+	},
+	{
+		"key": "GD",
+		"population": 113021,
+		"name": {
+			"en": "Grenada",
+			"sk": "Grenada"
+		},
+		"capital": {
+			"en": "St. George's",
+			"sk": "St. George's"
+		}
+	},
+	{
+		"key": "GE",
+		"population": 3979765,
+		"name": {
+			"en": "Georgia",
+			"sk": "Gruzínsko"
+		},
+		"capital": {
+			"en": "Tbilisi",
+			"sk": "Tbilisi"
+		}
+	},
+	{
+		"key": "GF",
+		"population": 306448,
+		"name": {
+			"en": "French Guiana",
+			"sk": "Francúzska Guiana"
+		},
+		"capital": {
+			"en": "Cayenne",
+			"sk": "Cayenne"
+		}
+	},
+	{
+		"key": "GH",
+		"population": 31732129,
+		"name": {
+			"en": "Ghana",
+			"sk": "Ghana"
+		},
+		"capital": {
+			"en": "Accra",
+			"sk": "Accra"
+		}
+	},
+	{
+		"key": "GL",
+		"population": 56877,
+		"name": {
+			"en": "Greenland",
+			"sk": "Grónsko"
+		},
+		"capital": {
+			"en": "Nuuk",
+			"sk": "Nuuk"
+		}
+	},
+	{
+		"key": "GM",
+		"population": 2486945,
+		"name": {
+			"en": "Gambia",
+			"sk": "Gambia"
+		},
+		"capital": {
+			"en": "Banjul",
+			"sk": "Banjul"
+		}
+	},
+	{
+		"key": "GN",
+		"population": 13497244,
+		"name": {
+			"en": "Guinea",
+			"sk": "Guinea"
+		},
+		"capital": {
+			"en": "Conakry",
+			"sk": "Conakry"
+		}
+	},
+	{
+		"key": "GP",
+		"population": 400020,
+		"name": {
+			"en": "Guadeloupe",
+			"sk": "Guadeloupe"
+		},
+		"capital": {
+			"en": "Basse-Terre",
+			"sk": "Basse-Terre"
+		}
+	},
+	{
+		"key": "GQ",
+		"population": 1449896,
+		"name": {
+			"en": "Equatorial Guinea",
+			"sk": "Rovníková Guinea"
+		},
+		"capital": {
+			"en": "Malabo",
+			"sk": "Malabo"
+		}
+	},
+	{
+		"key": "GR",
+		"population": 10370744,
+		"name": {
+			"en": "Greece",
+			"sk": "Grécko"
+		},
+		"capital": {
+			"en": "Athens",
+			"sk": "Atény"
+		}
+	},
+	{
+		"key": "GT",
+		"population": 18249860,
+		"name": {
+			"en": "Guatemala",
+			"sk": "Guatemala"
+		},
+		"capital": {
+			"en": "Guatemala City",
+			"sk": "Guatemala"
+		}
+	},
+	{
+		"key": "GW",
+		"population": 2015494,
+		"name": {
+			"en": "Guinea-Bissau",
+			"sk": "Guinea-Bissau"
+		},
+		"capital": {
+			"en": "Bissau",
+			"sk": "Bissau"
+		}
+	},
+	{
+		"key": "GY",
+		"population": 790326,
+		"name": {
+			"en": "Guyana",
+			"sk": "Guyana"
+		},
+		"capital": {
+			"en": "Georgetown",
+			"sk": "Georgetown"
+		}
+	},
+	{
+		"key": "HN",
+		"population": 10062991,
+		"name": {
+			"en": "Honduras",
+			"sk": "Honduras"
+		},
+		"capital": {
+			"en": "Tegucigalpa",
+			"sk": "Tegucigalpa"
+		}
+	},
+	{
+		"key": "HR",
+		"population": 4081651,
+		"name": {
+			"en": "Croatia",
+			"sk": "Chorvátsko"
+		},
+		"capital": {
+			"en": "Zagreb",
+			"sk": "Záhreb"
+		}
+	},
+	{
+		"key": "HT",
+		"population": 11541685,
+		"name": {
+			"en": "Haiti",
+			"sk": "Haiti"
+		},
+		"capital": {
+			"en": "Port-au-Prince",
+			"sk": "Port-au-Prince"
+		}
+	},
+	{
+		"key": "HU",
+		"population": 9634164,
+		"name": {
+			"en": "Hungary",
+			"sk": "Maďarsko"
+		},
+		"capital": {
+			"en": "Budapest",
+			"sk": "Budapesť"
+		}
+	},
+	{
+		"key": "ID",
+		"population": 276361783,
+		"name": {
+			"en": "Indonesia",
+			"sk": "Indonézia"
+		},
+		"capital": {
+			"en": "Jakarta",
+			"sk": "Jakarta"
+		}
+	},
+	{
+		"key": "IE",
+		"population": 4982907,
+		"name": {
+			"en": "Ireland",
+			"sk": "Írsko"
+		},
+		"capital": {
+			"en": "Dublin",
+			"sk": "Dublin"
+		}
+	},
+	{
+		"key": "IL",
+		"population": 8789774,
+		"name": {
+			"en": "Israel",
+			"sk": "Izrael"
+		},
+		"capital": {
+			"en": "Jerusalem",
+			"sk": "Jeruzalem"
+		}
+	},
+	{
+		"key": "IN",
+		"population": 1393409038,
+		"name": {
+			"en": "India",
+			"sk": "India"
+		},
+		"capital": {
+			"en": "New Delhi",
+			"sk": "Naí Dillí"
+		}
+	},
+	{
+		"key": "IQ",
+		"population": 41179350,
+		"name": {
+			"en": "Iraq",
+			"sk": "Irak"
+		},
+		"capital": {
+			"en": "Baghdad",
+			"sk": "Bagdád"
+		}
+	},
+	{
+		"key": "IR",
+		"population": 85028759,
+		"name": {
+			"en": "Iran",
+			"sk": "Irán"
+		},
+		"capital": {
+			"en": "Tehran",
+			"sk": "Teherán"
+		}
+	},
+	{
+		"key": "IS",
+		"population": 343353,
+		"name": {
+			"en": "Iceland",
+			"sk": "Island"
+		},
+		"capital": {
+			"en": "Reykjavik",
+			"sk": "Reykjavik"
+		}
+	},
+	{
+		"key": "IT",
+		"population": 60367477,
+		"name": {
+			"en": "Italy",
+			"sk": "Taliansko"
+		},
+		"capital": {
+			"en": "Rome",
+			"sk": "Rím"
+		}
+	},
+	{
+		"key": "JM",
+		"population": 2973463,
+		"name": {
+			"en": "Jamaica",
+			"sk": "Jamajka"
+		},
+		"capital": {
+			"en": "Kingston",
+			"sk": "Kingston"
+		}
+	},
+	{
+		"key": "JO",
+		"population": 10269021,
+		"name": {
+			"en": "Jordan",
+			"sk": "Jordánsko"
+		},
+		"capital": {
+			"en": "Amman",
+			"sk": "Amman"
+		}
+	},
+	{
+		"key": "JP",
+		"population": 126050804,
+		"name": {
+			"en": "Japan",
+			"sk": "Japonsko"
+		},
+		"capital": {
+			"en": "Tokyo",
+			"sk": "Tokio"
+		}
+	},
+	{
+		"key": "KE",
+		"population": 54985698,
+		"name": {
+			"en": "Kenya",
+			"sk": "Keňa"
+		},
+		"capital": {
+			"en": "Nairobi",
+			"sk": "Nairobi"
+		}
+	},
+	{
+		"key": "KG",
+		"population": 6628356,
+		"name": {
+			"en": "Kyrgyzstan",
+			"sk": "Kirgizsko"
+		},
+		"capital": {
+			"en": "Bishkek",
+			"sk": "Biškek"
+		}
+	},
+	{
+		"key": "KH",
+		"population": 16946438,
+		"name": {
+			"en": "Cambodia",
+			"sk": "Kambodža"
+		},
+		"capital": {
+			"en": "Phnom Penh",
+			"sk": "Phnom Penh"
+		}
+	},
+	{
+		"key": "KI",
+		"population": 121392,
+		"name": {
+			"en": "Kiribati",
+			"sk": "Kiribati"
+		},
+		"capital": {
+			"en": "Tarawa",
+			"sk": "Tarawa"
+		}
+	},
+	{
+		"key": "KM",
+		"population": 888451,
+		"name": {
+			"en": "Comoros",
+			"sk": "Komory"
+		},
+		"capital": {
+			"en": "Moroni",
+			"sk": "Moroni"
+		}
+	},
+	{
+		"key": "KP",
+		"population": 25887041,
+		"name": {
+			"en": "North Korea",
+			"sk": "Severná Kórea"
+		},
+		"capital": {
+			"en": "Pyongyang",
+			"sk": "Pchjongjang"
+		}
+	},
+	{
+		"key": "KR",
+		"population": 51305186,
+		"name": {
+			"en": "South Korea",
+			"sk": "Južná Kórea"
+		},
+		"capital": {
+			"en": "Seoul",
+			"sk": "Seoul"
+		}
+	},
+	{
+		"key": "KW",
+		"population": 4328550,
+		"name": {
+			"en": "Kuwait",
+			"sk": "Kuvajt"
+		},
+		"capital": {
+			"en": "Kuwait City",
+			"sk": "Kuvajt"
+		}
+	},
+	{
+		"key": "KZ",
+		"population": 18994962,
+		"name": {
+			"en": "Kazakhstan",
+			"sk": "Kazachstan"
+		},
+		"capital": {
+			"en": "Nursultan",
+			"sk": "Nursultan"
+		}
+	},
+	{
+		"key": "LA",
+		"population": 7379358,
+		"name": {
+			"en": "Laos",
+			"sk": "Laos"
+		},
+		"capital": {
+			"en": "Vientiane",
+			"sk": "Vientiane"
+		}
+	},
+	{
+		"key": "LB",
+		"population": 6769146,
+		"name": {
+			"en": "Lebanon",
+			"sk": "Libanon"
+		},
+		"capital": {
+			"en": "Beirut",
+			"sk": "Bejrút"
+		}
+	},
+	{
+		"key": "LI",
+		"population": 38250,
+		"name": {
+			"en": "Liechtenstein",
+			"sk": "Lichtenštajnsko"
+		},
+		"capital": {
+			"en": "Vaduz",
+			"sk": "Vaduz"
+		}
+	},
+	{
+		"key": "LK",
+		"population": 21497310,
+		"name": {
+			"en": "Sri Lanka",
+			"sk": "Srí Lanka"
+		},
+		"capital": {
+			"en": "Colombo",
+			"sk": "Colombo"
+		}
+	},
+	{
+		"key": "LR",
+		"population": 5180203,
+		"name": {
+			"en": "Liberia",
+			"sk": "Libéria"
+		},
+		"capital": {
+			"en": "Monrovia",
+			"sk": "Monrovia"
+		}
+	},
+	{
+		"key": "LS",
+		"population": 2159079,
+		"name": {
+			"en": "Lesotho",
+			"sk": "Lesotho"
+		},
+		"capital": {
+			"en": "Maseru",
+			"sk": "Maseru"
+		}
+	},
+	{
+		"key": "LT",
+		"population": 2689862,
+		"name": {
+			"en": "Lithuania",
+			"sk": "Litva"
+		},
+		"capital": {
+			"en": "Vilnius",
+			"sk": "Vilnius"
+		}
+	},
+	{
+		"key": "LU",
+		"population": 634814,
+		"name": {
+			"en": "Luxembourg",
+			"sk": "Luxembursko"
+		},
+		"capital": {
+			"en": "Luxembourg",
+			"sk": "Luxemburg"
+		}
+	},
+	{
+		"key": "LV",
+		"population": 1866942,
+		"name": {
+			"en": "Latvia",
+			"sk": "Lotyšsko"
+		},
+		"capital": {
+			"en": "Riga",
+			"sk": "Riga"
+		}
+	},
+	{
+		"key": "LY",
+		"population": 6958532,
+		"name": {
+			"en": "Libya",
+			"sk": "Líbya"
+		},
+		"capital": {
+			"en": "Tripolis",
+			"sk": "Tripolis"
+		}
+	},
+	{
+		"key": "MA",
+		"population": 37344795,
+		"name": {
+			"en": "Morocco",
+			"sk": "Maroko"
+		},
+		"capital": {
+			"en": "Rabat",
+			"sk": "Rabat"
+		}
+	},
+	{
+		"key": "MC",
+		"population": 39511,
+		"name": {
+			"en": "Monaco",
+			"sk": "Monako"
+		},
+		"capital": {
+			"en": "Monaco",
+			"sk": "Monako"
+		}
+	},
+	{
+		"key": "MD",
+		"population": 4024019,
+		"name": {
+			"en": "Moldova",
+			"sk": "Moldavsko"
+		},
+		"capital": {
+			"en": "Chisinau",
+			"sk": "Kišiňov"
+		}
+	},
+	{
+		"key": "ME",
+		"population": 628053,
+		"name": {
+			"en": "Montenegro",
+			"sk": "Čierna hora"
+		},
+		"capital": {
+			"en": "Podgorica",
+			"sk": "Podgorica"
+		}
+	},
+	{
+		"key": "MG",
+		"population": 28427328,
+		"name": {
+			"en": "Madagascar",
+			"sk": "Madagaskar"
+		},
+		"capital": {
+			"en": "Antananarivo",
+			"sk": "Antananarivo"
+		}
+	},
+	{
+		"key": "MH",
+		"population": 59610,
+		"name": {
+			"en": "Marshall Islands",
+			"sk": "Marshallove ostrovy"
+		},
+		"capital": {
+			"en": "Majuro",
+			"sk": "Majuro"
+		}
+	},
+	{
+		"key": "ML",
+		"population": 20855735,
+		"name": {
+			"en": "Mali",
+			"sk": "Mali"
+		},
+		"capital": {
+			"en": "Bamako",
+			"sk": "Bamako"
+		}
+	},
+	{
+		"key": "MN",
+		"population": 3329289,
+		"name": {
+			"en": "Mongolia",
+			"sk": "Mongolsko"
+		},
+		"capital": {
+			"en": "Ulaanbaatar",
+			"sk": "Ulanbátar"
+		}
+	},
+	{
+		"key": "MQ",
+		"population": 374745,
+		"name": {
+			"en": "Martinique",
+			"sk": "Martinik"
+		},
+		"capital": {
+			"en": "Fort-de-France",
+			"sk": "Fort-de-France"
+		}
+	},
+	{
+		"key": "MR",
+		"population": 4775119,
+		"name": {
+			"en": "Mauritania",
+			"sk": "Mauritánia"
+		},
+		"capital": {
+			"en": "Nouakchott",
+			"sk": "Nouakchott"
+		}
+	},
+	{
+		"key": "MT",
+		"population": 442784,
+		"name": {
+			"en": "Malta",
+			"sk": "Malta"
+		},
+		"capital": {
+			"en": "Valletta",
+			"sk": "Valletta"
+		}
+	},
+	{
+		"key": "MU",
+		"population": 1273433,
+		"name": {
+			"en": "Mauritius",
+			"sk": "Maurícius"
+		},
+		"capital": {
+			"en": "Port Louis",
+			"sk": "Port Louis"
+		}
+	},
+	{
+		"key": "MV",
+		"population": 543617,
+		"name": {
+			"en": "Maldives",
+			"sk": "Maldivy"
+		},
+		"capital": {
+			"en": "Male",
+			"sk": "Male"
+		}
+	},
+	{
+		"key": "MW",
+		"population": 19647684,
+		"name": {
+			"en": "Malawi",
+			"sk": "Malawi"
+		},
+		"capital": {
+			"en": "Lilongwe",
+			"sk": "Lilongwe"
+		}
+	},
+	{
+		"key": "MX",
+		"population": 130262216,
+		"name": {
+			"en": "Mexico",
+			"sk": "Mexiko"
+		},
+		"capital": {
+			"en": "Mexico City",
+			"sk": "Mexiko"
+		}
+	},
+	{
+		"key": "MY",
+		"population": 32776194,
+		"name": {
+			"en": "Malaysia",
+			"sk": "Malajzia"
+		},
+		"capital": {
+			"en": "Kuala Lumpur",
+			"sk": "Kuala Lumpur"
+		}
+	},
+	{
+		"key": "MZ",
+		"population": 32163047,
+		"name": {
+			"en": "Mozambique",
+			"sk": "Mozambik"
+		},
+		"capital": {
+			"en": "Maputo",
+			"sk": "Maputo"
+		}
+	},
+	{
+		"key": "NA",
+		"population": 2587344,
+		"name": {
+			"en": "Namibia",
+			"sk": "Namíbia"
+		},
+		"capital": {
+			"en": "Windhoek",
+			"sk": "Windhoek"
+		}
+	},
+	{
+		"key": "NE",
+		"population": 25130817,
+		"name": {
+			"en": "Niger",
+			"sk": "Niger"
+		},
+		"capital": {
+			"en": "Niamey",
+			"sk": "Niamey"
+		}
+	},
+	{
+		"key": "NG",
+		"population": 211400708,
+		"name": {
+			"en": "Nigeria",
+			"sk": "Nigeria"
+		},
+		"capital": {
+			"en": "Abuja",
+			"sk": "Abuja"
+		}
+	},
+	{
+		"key": "NI",
+		"population": 6702385,
+		"name": {
+			"en": "Nicaragua",
+			"sk": "Nikaragua"
+		},
+		"capital": {
+			"en": "Managua",
+			"sk": "Managua"
+		}
+	},
+	{
+		"key": "NL",
+		"population": 17173099,
+		"name": {
+			"en": "Netherlands",
+			"sk": "Holandsko"
+		},
+		"capital": {
+			"en": "Amsterdam",
+			"sk": "Amsterdam"
+		}
+	},
+	{
+		"key": "NO",
+		"population": 5465630,
+		"name": {
+			"en": "Norway",
+			"sk": "Nórsko"
+		},
+		"capital": {
+			"en": "Oslo",
+			"sk": "Oslo"
+		}
+	},
+	{
+		"key": "NP",
+		"population": 29674920,
+		"name": {
+			"en": "Nepal",
+			"sk": "Nepál"
+		},
+		"capital": {
+			"en": "Kathmandu",
+			"sk": "Kathmandu"
+		}
+	},
+	{
+		"key": "NR",
+		"population": 10876,
+		"name": {
+			"en": "Nauru",
+			"sk": "Nauru"
+		},
+		"capital": {
+			"en": "Yaren",
+			"sk": "Yaren"
+		}
+	},
+	{
+		"key": "NZ",
+		"population": 4860643,
+		"name": {
+			"en": "New Zealand",
+			"sk": "Nový Zéland"
+		},
+		"capital": {
+			"en": "Wellington",
+			"sk": "Wellington"
+		}
+	},
+	{
+		"key": "OM",
+		"population": 5223375,
+		"name": {
+			"en": "Oman",
+			"sk": "Omán"
+		},
+		"capital": {
+			"en": "Muscat",
+			"sk": "Muscat"
+		}
+	},
+	{
+		"key": "PA",
+		"population": 4381579,
+		"name": {
+			"en": "Panama",
+			"sk": "Panama"
+		},
+		"capital": {
+			"en": "Panama City",
+			"sk": "Panama"
+		}
+	},
+	{
+		"key": "PE",
+		"population": 33359418,
+		"name": {
+			"en": "Peru",
+			"sk": "Peru"
+		},
+		"capital": {
+			"en": "Lima",
+			"sk": "Lima"
+		}
+	},
+	{
+		"key": "PG",
+		"population": 9119010,
+		"name": {
+			"en": "Papua New Guinea",
+			"sk": "Papua-Nová Guinea"
+		},
+		"capital": {
+			"en": "Port Moresby",
+			"sk": "Port Moresby"
+		}
+	},
+	{
+		"key": "PH",
+		"population": 111046913,
+		"name": {
+			"en": "Philippines",
+			"sk": "Filipíny"
+		},
+		"capital": {
+			"en": "Manila",
+			"sk": "Manila"
+		}
+	},
+	{
+		"key": "PK",
+		"population": 225199937,
+		"name": {
+			"en": "Pakistan",
+			"sk": "Pakistan"
+		},
+		"capital": {
+			"en": "Islamabad",
+			"sk": "Islamabad"
+		}
+	},
+	{
+		"key": "PL",
+		"population": 37797005,
+		"name": {
+			"en": "Poland",
+			"sk": "Poľsko"
+		},
+		"capital": {
+			"en": "Warsaw",
+			"sk": "Varšava"
+		}
+	},
+	{
+		"key": "PR",
+		"population": 2828255,
+		"name": {
+			"en": "Puerto Rico",
+			"sk": "Portoriko"
+		},
+		"capital": {
+			"en": "San Juan",
+			"sk": "San Juan"
+		}
+	},
+	{
+		"key": "PT",
+		"population": 10167925,
+		"name": {
+			"en": "Portugal",
+			"sk": "Portugalsko"
+		},
+		"capital": {
+			"en": "Lisbon",
+			"sk": "Lisabon"
+		}
+	},
+	{
+		"key": "PW",
+		"population": 18169,
+		"name": {
+			"en": "Palau",
+			"sk": "Palau"
+		},
+		"capital": {
+			"en": "Melekeok",
+			"sk": "Melekeok"
+		}
+	},
+	{
+		"key": "PY",
+		"population": 7219638,
+		"name": {
+			"en": "Paraguay",
+			"sk": "Paraguaj"
+		},
+		"capital": {
+			"en": "Asuncion",
+			"sk": "Asunción"
+		}
+	},
+	{
+		"key": "QA",
+		"population": 2930528,
+		"name": {
+			"en": "Qatar",
+			"sk": "Katar"
+		},
+		"capital": {
+			"en": "Doha",
+			"sk": "Dauha"
+		}
+	},
+	{
+		"key": "RO",
+		"population": 19127774,
+		"name": {
+			"en": "Romania",
+			"sk": "Rumunsko"
+		},
+		"capital": {
+			"en": "Bucharest",
+			"sk": "Bukurešť"
+		}
+	},
+	{
+		"key": "RS",
+		"population": 8697550,
+		"name": {
+			"en": "Serbia",
+			"sk": "Srbsko"
+		},
+		"capital": {
+			"en": "Belgrade",
+			"sk": "Belehrad"
+		}
+	},
+	{
+		"key": "RU",
+		"population": 145912025,
+		"name": {
+			"en": "Russia",
+			"sk": "Rusko"
+		},
+		"capital": {
+			"en": "Moscow",
+			"sk": "Moskva"
+		}
+	},
+	{
+		"key": "RW",
+		"population": 13276513,
+		"name": {
+			"en": "Rwanda",
+			"sk": "Rwanda"
+		},
+		"capital": {
+			"en": "Kigali",
+			"sk": "Kigali"
+		}
+	},
+	{
+		"key": "SA",
+		"population": 35340683,
+		"name": {
+			"en": "Saudi Arabia",
+			"sk": "Saudská Arábia"
+		},
+		"capital": {
+			"en": "Riyadh",
+			"sk": "Rijád"
+		}
+	},
+	{
+		"key": "SB",
+		"population": 703996,
+		"name": {
+			"en": "Solomon Islands",
+			"sk": "Šalamúnove ostrovy"
+		},
+		"capital": {
+			"en": "Honiara",
+			"sk": "Honiara"
+		}
+	},
+	{
+		"key": "SC",
+		"population": 98908,
+		"name": {
+			"en": "Seychelles",
+			"sk": "Seychely"
+		},
+		"capital": {
+			"en": "Victoria",
+			"sk": "Victoria"
+		}
+	},
+	{
+		"key": "SD",
+		"population": 44909353,
+		"name": {
+			"en": "Sudan",
+			"sk": "Sudán"
+		},
+		"capital": {
+			"en": "Khartoum",
+			"sk": "Khartoum"
+		}
+	},
+	{
+		"key": "SE",
+		"population": 10160169,
+		"name": {
+			"en": "Sweden",
+			"sk": "Švédsko"
+		},
+		"capital": {
+			"en": "Stockholm",
+			"sk": "Štokholm"
+		}
+	},
+	{
+		"key": "SG",
+		"population": 5896686,
+		"name": {
+			"en": "Singapore",
+			"sk": "Singapur"
+		},
+		"capital": {
+			"en": "Singapore",
+			"sk": "Singapur"
+		}
+	},
+	{
+		"key": "SI",
+		"population": 2078724,
+		"name": {
+			"en": "Slovenia",
+			"sk": "Slovinsko"
+		},
+		"capital": {
+			"en": "Ljubljana",
+			"sk": "Ľubľana"
+		}
+	},
+	{
+		"key": "SK",
+		"population": 5460721,
+		"name": {
+			"en": "Slovakia",
+			"sk": "Slovensko"
+		},
+		"capital": {
+			"en": "Bratislava",
+			"sk": "Bratislava"
+		}
+	},
+	{
+		"key": "SL",
+		"population": 8141343,
+		"name": {
+			"en": "Sierra Leone",
+			"sk": "Sierra Leone"
+		},
+		"capital": {
+			"en": "Freetown",
+			"sk": "Freetown"
+		}
+	},
+	{
+		"key": "SM",
+		"population": 34017,
+		"name": {
+			"en": "San Marino",
+			"sk": "San Maríno"
+		},
+		"capital": {
+			"en": "San Marino",
+			"sk": "San Maríno"
+		}
+	},
+	{
+		"key": "SN",
+		"population": 17196301,
+		"name": {
+			"en": "Senegal",
+			"sk": "Senegal"
+		},
+		"capital": {
+			"en": "Dakar",
+			"sk": "Dakar"
+		}
+	},
+	{
+		"key": "SO",
+		"population": 16359504,
+		"name": {
+			"en": "Somalia",
+			"sk": "Somálsko"
+		},
+		"capital": {
+			"en": "Mogadishu",
+			"sk": "Mogadišo"
+		}
+	},
+	{
+		"key": "SR",
+		"population": 591800,
+		"name": {
+			"en": "Suriname",
+			"sk": "Surinam"
+		},
+		"capital": {
+			"en": "Paramaribo",
+			"sk": "Paramaribo"
+		}
+	},
+	{
+		"key": "SS",
+		"population": 11381378,
+		"name": {
+			"en": "South Sudan",
+			"sk": "Južný Sudán"
+		},
+		"capital": {
+			"en": "Juba",
+			"sk": "Juba"
+		}
+	},
+	{
+		"key": "SV",
+		"population": 6518499,
+		"name": {
+			"en": "El Salvador",
+			"sk": "El Salvador"
+		},
+		"capital": {
+			"en": "San Salvador",
+			"sk": "San Salvador"
+		}
+	},
+	{
+		"key": "SY",
+		"population": 18275702,
+		"name": {
+			"en": "Syria",
+			"sk": "Sýria"
+		},
+		"capital": {
+			"en": "Damascus",
+			"sk": "Damask"
+		}
+	},
+	{
+		"key": "TD",
+		"population": 16914985,
+		"name": {
+			"en": "Chad",
+			"sk": "Čad"
+		},
+		"capital": {
+			"en": "N'Djamena",
+			"sk": "N'Djamena"
+		}
+	},
+	{
+		"key": "TG",
+		"population": 8478250,
+		"name": {
+			"en": "Togo",
+			"sk": "Togo"
+		},
+		"capital": {
+			"en": "Lome",
+			"sk": "Lome"
+		}
+	},
+	{
+		"key": "TH",
+		"population": 69950850,
+		"name": {
+			"en": "Thailand",
+			"sk": "Thajsko"
+		},
+		"capital": {
+			"en": "Bangkok",
+			"sk": "Bangkok"
+		}
+	},
+	{
+		"key": "TJ",
+		"population": 9749627,
+		"name": {
+			"en": "Tajikistan",
+			"sk": "Tadžikistan"
+		},
+		"capital": {
+			"en": "Dushanbe",
+			"sk": "Dušanbe"
+		}
+	},
+	{
+		"key": "TL",
+		"population": 1343873,
+		"name": {
+			"en": "Timor-Leste",
+			"sk": "Timor-Leste"
+		},
+		"capital": {
+			"en": "Dili",
+			"sk": "Dili"
+		}
+	},
+	{
+		"key": "TM",
+		"population": 6117924,
+		"name": {
+			"en": "Turkmenistan",
+			"sk": "Turkménsko"
+		},
+		"capital": {
+			"en": "Ashgabat",
+			"sk": "Ašchabad"
+		}
+	},
+	{
+		"key": "TN",
+		"population": 11935766,
+		"name": {
+			"en": "Tunisia",
+			"sk": "Tunisko"
+		},
+		"capital": {
+			"en": "Tunis",
+			"sk": "Tunis"
+		}
+	},
+	{
+		"key": "TO",
+		"population": 106760,
+		"name": {
+			"en": "Tonga",
+			"sk": "Tonga"
+		},
+		"capital": {
+			"en": "Nuku'alofa",
+			"sk": "Nuku'alofa"
+		}
+	},
+	{
+		"key": "TR",
+		"population": 85042738,
+		"name": {
+			"en": "Turkey",
+			"sk": "Turecko"
+		},
+		"capital": {
+			"en": "Ankara",
+			"sk": "Ankara"
+		}
+	},
+	{
+		"key": "TV",
+		"population": 11931,
+		"name": {
+			"en": "Tuvalu",
+			"sk": "Tuvalu"
+		},
+		"capital": {
+			"en": "Funafuti",
+			"sk": "Funafuti"
+		}
+	},
+	{
+		"key": "TW",
+		"population": 23855010,
+		"name": {
+			"en": "Taiwan",
+			"sk": "Taiwan"
+		},
+		"capital": {
+			"en": "Taipei",
+			"sk": "Taipei"
+		}
+	},
+	{
+		"key": "TZ",
+		"population": 61498437,
+		"name": {
+			"en": "Tanzania",
+			"sk": "Tanzánia"
+		},
+		"capital": {
+			"en": "Dodoma",
+			"sk": "Dodoma"
+		}
+	},
+	{
+		"key": "UA",
+		"population": 43466819,
+		"name": {
+			"en": "Ukraine",
+			"sk": "Ukrajina"
+		},
+		"capital": {
+			"en": "Kiev",
+			"sk": "Kyjev"
+		}
+	},
+	{
+		"key": "UG",
+		"population": 47123531,
+		"name": {
+			"en": "Uganda",
+			"sk": "Uganda"
+		},
+		"capital": {
+			"en": "Kampala",
+			"sk": "Kampala"
+		}
+	},
+	{
+		"key": "US",
+		"population": 332915073,
+		"name": {
+			"en": "United States of America",
+			"sk": "Spojené štáty americké"
+		},
+		"capital": {
+			"en": "Washington D.C.",
+			"sk": "Washington D.C."
+		}
+	},
+	{
+		"key": "UY",
+		"population": 3485151,
+		"name": {
+			"en": "Uruguay",
+			"sk": "Uruguaj"
+		},
+		"capital": {
+			"en": "Montevideo",
+			"sk": "Montevideo"
+		}
+	},
+	{
+		"key": "UZ",
+		"population": 33935763,
+		"name": {
+			"en": "Uzbekistan",
+			"sk": "Uzbekistan"
+		},
+		"capital": {
+			"en": "Tashkent",
+			"sk": "Taškent"
+		}
+	},
+	{
+		"key": "VA",
+		"population": 800,
+		"name": {
+			"en": "Vatican City",
+			"sk": "Vatikán"
+		},
+		"capital": {
+			"en": "Vatican City",
+			"sk": "Vatikán"
+		}
+	},
+	{
+		"key": "VE",
+		"population": 28704954,
+		"name": {
+			"en": "Venezuela",
+			"sk": "Venezuela"
+		},
+		"capital": {
+			"en": "Caracas",
+			"sk": "Caracas"
+		}
+	},
+	{
+		"key": "VN",
+		"population": 98168833,
+		"name": {
+			"en": "Vietnam",
+			"sk": "Vietnam"
+		},
+		"capital": {
+			"en": "Hanoi",
+			"sk": "Hanoi"
+		}
+	},
+	{
+		"key": "VU",
+		"population": 314464,
+		"name": {
+			"en": "Vanuatu",
+			"sk": "Vanuatu"
+		},
+		"capital": {
+			"en": "Port Vila",
+			"sk": "Port Vila"
+		}
+	},
+	{
+		"key": "WS",
+		"population": 200149,
+		"name": {
+			"en": "Samoa",
+			"sk": "Samoa"
+		},
+		"capital": {
+			"en": "Apia",
+			"sk": "Apia"
+		}
+	},
+	{
+		"key": "YE",
+		"population": 30490640,
+		"name": {
+			"en": "Yemen",
+			"sk": "Jemen"
+		},
+		"capital": {
+			"en": "Sanaa",
+			"sk": "Sanaa"
+		}
+	},
+	{
+		"key": "YT",
+		"population": 279515,
+		"name": {
+			"en": "Mayotte",
+			"sk": "Mayotte"
+		},
+		"capital": {
+			"en": "Mamoudzou",
+			"sk": "Mamoudzou"
+		}
+	},
+	{
+		"key": "ZA",
+		"population": 60041994,
+		"name": {
+			"en": "South Africa",
+			"sk": "Južná Afrika"
+		},
+		"capital": {
+			"en": "Pretoria",
+			"sk": "Pretória"
+		}
+	},
+	{
+		"key": "ZM",
+		"population": 18920651,
+		"name": {
+			"en": "Zambia",
+			"sk": "Zambia"
+		},
+		"capital": {
+			"en": "Lusaka",
+			"sk": "Lusaka"
+		}
+	},
+	{
+		"key": "ZW",
+		"population": 15092171,
+		"name": {
+			"en": "Zimbabwe",
+			"sk": "Zimbabwe"
+		},
+		"capital": {
+			"en": "Harare",
+			"sk": "Harare"
+		}
+	}
+]
